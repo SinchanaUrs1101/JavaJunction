@@ -1,0 +1,2 @@
+# JavaJunction
+Fun java projects
